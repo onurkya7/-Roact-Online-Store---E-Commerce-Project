@@ -61,10 +61,6 @@
 - Enabling the seller to create special promotions for customers.
 - Allowing the seller to communicate with customers via chat screen about their own products in more detail.
 
-## Project Discord Link
-
-- [Discord Link](https://discord.gg/XWsh2d4E)
-
 ## Project Interface
 
 ![Project Interface 1](https://user-images.githubusercontent.com/100594545/216579656-1b378cb7-6d44-42d7-80fa-8f9a4969a7f1.jpeg)
